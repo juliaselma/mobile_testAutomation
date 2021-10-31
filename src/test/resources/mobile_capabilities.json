@@ -1,0 +1,9 @@
+{
+  "deviceName": "emulator-5554",
+  "platformName": "android",
+  "appPackage": "com.trivago",
+  "appActivity": "com.trivago.ft.main.frontend.MainActivity",
+  "platformVersion": "10",
+  "automationName": "UiAutomator2",
+  "app": "C:\\Users\\julia.selma\\Desktop\\Academy\\JuliaSelma_automationMobile\\apps\\trivago.apk"
+}
